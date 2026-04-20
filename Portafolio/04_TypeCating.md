@@ -1,4 +1,4 @@
-## Type Cating
+# Type Cating
 
 La conversion de tipos significa convertir un tipo de dato en otro. Por ejemplo convertir un int a un double. En Java hay dos tipos de conversión.
 
