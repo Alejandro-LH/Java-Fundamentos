@@ -1,4 +1,4 @@
-## Sintaxis
+# Sintaxis
 
 En programación, el código se organiza en estructuras para que sea más fácil de entender, reutilizar y mantener.
 
