@@ -1,4 +1,4 @@
-## Statements
+# Statements
 
 Un programa de computadora es **una lista de instrucciones** que serán ejecutadas por una computadora. En el lenguaje de de programación, estas instrucciones se llaman sentencias (**`Statements`**).
 
