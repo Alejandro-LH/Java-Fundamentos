@@ -1,4 +1,4 @@
-## Data Types
+# Data Types
 
 Como se especifico en el capitulo anterior, una variable en Java debe tener un tipo de dato especificado.
 
