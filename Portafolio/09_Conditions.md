@@ -1,4 +1,4 @@
-## Java Conditions and If Statements
+# Java Conditions and If Statements
 
 
 Las condiciones y las sentencias  **`if`**  te permiten controlar el flujo de tu programa, decidiendo qué código se ejecuta y qué código se omite. Es como en la vida real:  **Si llueve, toma un paraguas. De lo contrario, no hagas nada.**
